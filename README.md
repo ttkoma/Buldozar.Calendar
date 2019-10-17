@@ -1,6 +1,6 @@
-Buldozar.Calendar
+<h1>Buldozar.Calendar</h1>
 
-!!! Alpha !!!
+<b>!!! Alpha !!!</b>
 
-This <a href="https://creativebulma.net/product/calendar/demo">Bulma calendar</a> component for Blazor/
+This a <a href="https://creativebulma.net/product/calendar/demo">Bulma calendar</a> component for Blazor.
 
