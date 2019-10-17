@@ -3,6 +3,15 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RazorLangVersion>3.0</RazorLangVersion>
+    <Version>0.0.1</Version>
+    <Authors>Lapeev Konstantin</Authors>
+    <Product />
+    <Description>Bulma Calendar component for Blazor</Description>
+    <RepositoryUrl>https://github.com/ttkoma/Buldozar.Calendar</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>Blazor, Calendar, Bulma</PackageTags>
+    <PackageReleaseNotes>Alpha</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 
